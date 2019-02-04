@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "playwings",
+    "database": "nodejs",
+    "host": "exercise-rds-mysql.ckqwvhorctre.ap-northeast-2.rds.amazonaws.com",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "playwings",
+    "database": "nodejs",
+    "host": "exercise-rds-mysql.ckqwvhorctre.ap-northeast-2.rds.amazonaws.com",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "playwings",
+    "database": "nodejs",
+    "host": "exercise-rds-mysql.ckqwvhorctre.ap-northeast-2.rds.amazonaws.com",
+    "dialect": "mysql"
+  }
+}
